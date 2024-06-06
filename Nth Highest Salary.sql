@@ -13,3 +13,7 @@ from (
 where rnk = N
   );
 END
+/*
+This method beats 100% of mysql users in Letcode
+https://leetcode.com/problems/nth-highest-salary/submissions/1279887702
+*/
